@@ -52,3 +52,24 @@ ficticiaS.A/
 │
 └── README.md
 
+## ⚙️ Inicialización del Proyecto
+
+### 🔧 Backend (Spring Boot)
+
+1. Ir a la carpeta del backend:
+   ```bash
+   cd ficticia-backend
+2. Ejecutar la aplicación con maven:
+   ```bash
+   ./mvnw spring-boot:run
+
+## 💻 Frontend (React)
+
+1. Ir a la carpeta del frontend:
+   ```bash
+   cd ficticia-frontend
+2. Instalar dependencias:
+   ```bash
+   npm install
+   npm start
+    
