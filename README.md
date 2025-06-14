@@ -18,6 +18,9 @@
 - Fetch API
 - CSS
 
+### Base de datos:
+- PostgreSQL
+
 ---
 
 ## 🔐 Funcionalidades
